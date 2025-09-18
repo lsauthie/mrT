@@ -6,6 +6,6 @@ Beeilen Sie sich!!
 Tipp: Bevor du beginnst, lies dir alle Informationen durch!!
 
 - Es scheint, dass Mr T einen Access Point (einen WLAN-Zugangspunkt) verwendet, um seine Bombe zu steuern. Sie müssen versuchen, sich damit zu verbinden.
-- Wir haben eine Domain auf seinen Namen gefunden: "mrt.holloh.ch" - Tipp: schauen Sie sich die Einträge des Typs "TXT" an und nicht die "A"-Einträge.
+- Wir haben eine Domain auf seinen Namen gefunden: "mrt.holloh.ch" - Tipp: Schau dir die Einträge des Typs "TXT" an und nicht die "A"-Einträge.
 - Wenn DHCP die erforderlichen Informationen nicht bereitstellt, musst du sie manuell konfigurieren. Du hast deine persönliche Adresse erhalten, die du verwenden kannst. Das Netzwerk ist /24 und das Gateway ist die erste mögliche Adresse. Du kannst im Internet nachsehen, wie man diese Informationen manuell konfiguriert.
 - Eine Webseite ermöglicht das Deaktivieren der Bombe; sie befindet sich in diesem Netzwerk: 10.0.0.200/29 — es liegt an Ihnen, die entsprechende IP-Adresse zu finden. Tipp: Sobald du sie gefunden hast, kannst du die IP direkt in deinem Browser verwenden, z.b. http://1.2.3.4.
